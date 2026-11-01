@@ -3,5 +3,8 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-data/own/images/
 sample.png
+data/own/images/
+data/cord/
+data/cord_preview/
+results/preds_*.json
