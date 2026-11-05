@@ -19,8 +19,9 @@ def cord_to_schema(gt):
     total = gt.get("total", {})
     if isinstance(total, list):
         total = total[0] if total else {}
-    return {"vendor": None, "date": None,
+        return {"vendor": None, "date": None,
             "total": parse_amount(total.get("total_price")),
+            "currency": "IDR",
             "line_items": items}
 
 ds = load_dataset("naver-clova-ix/cord-v2")

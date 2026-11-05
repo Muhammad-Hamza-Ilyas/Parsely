@@ -1,0 +1,513 @@
+{
+ "s029.jpg": {
+  "vendor": "Star Cafe",
+  "date": "2026-08-31",
+  "total": 17.09,
+  "currency": null,
+  "line_items": [
+   {
+    "description": "SOAP",
+    "quantity": 1,
+    "amount": 3.66
+   },
+   {
+    "description": "JUICE",
+    "quantity": 2,
+    "amount": 6.26
+   },
+   {
+    "description": "BISCUITS",
+    "quantity": 2,
+    "amount": 3.02
+   },
+   {
+    "description": "CHICKEN",
+    "quantity": 1,
+    "amount": 1.89
+   },
+   {
+    "description": "BREAD",
+    "quantity": 2,
+    "amount": 2.26
+   }
+  ]
+ },
+ "s030.jpg": {
+  "vendor": "City Pharmacy",
+  "date": "2026-02-08",
+  "total": 48.1,
+  "currency": null,
+  "line_items": [
+   {
+    "description": "BREAD",
+    "quantity": 3,
+    "amount": 7.77
+   },
+   {
+    "description": "RICE",
+    "quantity": 2,
+    "amount": 4.28
+   },
+   {
+    "description": "CHEESE",
+    "quantity": 3,
+    "amount": 17.85
+   },
+   {
+    "description": "COOKING OIL",
+    "quantity": 2,
+    "amount": 7.26
+   },
+   {
+    "description": "APPLES",
+    "quantity": 1,
+    "amount": 3.85
+   },
+   {
+    "description": "YOGURT",
+    "quantity": 3,
+    "amount": 3.15
+   },
+   {
+    "description": "JUICE",
+    "quantity": 1,
+    "amount": 3.94
+   }
+  ]
+ },
+ "s031.jpg": {
+  "vendor": "Green Supermarket",
+  "date": "2025-08-13",
+  "total": 7503.23,
+  "currency": "PKR",
+  "line_items": [
+   {
+    "description": "SHAMPOO",
+    "quantity": 1,
+    "amount": 428.06
+   },
+   {
+    "description": "YOGURT",
+    "quantity": 2,
+    "amount": 966.62
+   },
+   {
+    "description": "CHICKEN",
+    "quantity": 3,
+    "amount": 1123.14
+   },
+   {
+    "description": "SUGAR",
+    "quantity": 1,
+    "amount": 283.83
+   },
+   {
+    "description": "MILK",
+    "quantity": 3,
+    "amount": 520.95
+   },
+   {
+    "description": "RICE",
+    "quantity": 1,
+    "amount": 549.63
+   },
+   {
+    "description": "CHEESE",
+    "quantity": 1,
+    "amount": 89.28
+   },
+   {
+    "description": "COOKING OIL",
+    "quantity": 1,
+    "amount": 485.95
+   },
+   {
+    "description": "TEA",
+    "quantity": 3,
+    "amount": 1385.79
+   },
+   {
+    "description": "JUICE",
+    "quantity": 3,
+    "amount": 1669.98
+   }
+  ]
+ },
+ "s032.jpg": {
+  "vendor": "Blue Moon Restaurant",
+  "date": "2026-10-15",
+  "total": 3512.41,
+  "currency": "PKR",
+  "line_items": [
+   {
+    "description": "YOGURT",
+    "quantity": 2,
+    "amount": 764.08
+   },
+   {
+    "description": "MILK",
+    "quantity": 1,
+    "amount": 100.23
+   },
+   {
+    "description": "APPLES",
+    "quantity": 3,
+    "amount": 1529.34
+   },
+   {
+    "description": "SHAMPOO",
+    "quantity": 3,
+    "amount": 1118.76
+   }
+  ]
+ },
+ "s033.jpg": {
+  "vendor": "City Pharmacy",
+  "date": "2025-04-29",
+  "total": 5063.82,
+  "currency": "PKR",
+  "line_items": [
+   {
+    "description": "CHEESE",
+    "quantity": 2,
+    "amount": 453.16
+   },
+   {
+    "description": "SUGAR",
+    "quantity": 1,
+    "amount": 521.75
+   },
+   {
+    "description": "EGGS",
+    "quantity": 2,
+    "amount": 552.8
+   },
+   {
+    "description": "YOGURT",
+    "quantity": 2,
+    "amount": 417.04
+   },
+   {
+    "description": "APPLES",
+    "quantity": 2,
+    "amount": 994.92
+   },
+   {
+    "description": "CHICKEN",
+    "quantity": 3,
+    "amount": 210.54
+   },
+   {
+    "description": "BREAD",
+    "quantity": 1,
+    "amount": 222.98
+   },
+   {
+    "description": "SHAMPOO",
+    "quantity": 2,
+    "amount": 227.52
+   },
+   {
+    "description": "BISCUITS",
+    "quantity": 2,
+    "amount": 1051.4
+   },
+   {
+    "description": "RICE",
+    "quantity": 1,
+    "amount": 411.71
+   }
+  ]
+ },
+ "s034.jpg": {
+  "vendor": "Blue Moon Restaurant",
+  "date": "2026-01-30",
+  "total": 54.52,
+  "currency": null,
+  "line_items": [
+   {
+    "description": "BISCUITS",
+    "quantity": 1,
+    "amount": 0.66
+   },
+   {
+    "description": "MILK",
+    "quantity": 3,
+    "amount": 11.55
+   },
+   {
+    "description": "RICE",
+    "quantity": 1,
+    "amount": 4.4
+   },
+   {
+    "description": "SUGAR",
+    "quantity": 2,
+    "amount": 7.06
+   },
+   {
+    "description": "COOKING OIL",
+    "quantity": 3,
+    "amount": 8.22
+   },
+   {
+    "description": "EGGS",
+    "quantity": 1,
+    "amount": 5.96
+   },
+   {
+    "description": "SHAMPOO",
+    "quantity": 1,
+    "amount": 3.04
+   },
+   {
+    "description": "CHICKEN",
+    "quantity": 1,
+    "amount": 4.06
+   },
+   {
+    "description": "TEA",
+    "quantity": 1,
+    "amount": 3.24
+   },
+   {
+    "description": "CHEESE",
+    "quantity": 3,
+    "amount": 6.33
+   }
+  ]
+ },
+ "s035.jpg": {
+  "vendor": "Blue Moon Restaurant",
+  "date": "2025-03-22",
+  "total": 24.95,
+  "currency": null,
+  "line_items": [
+   {
+    "description": "APPLES",
+    "quantity": 1,
+    "amount": 2.02
+   },
+   {
+    "description": "RICE",
+    "quantity": 2,
+    "amount": 4.74
+   },
+   {
+    "description": "YOGURT",
+    "quantity": 3,
+    "amount": 5.91
+   },
+   {
+    "description": "COOKING OIL",
+    "quantity": 1,
+    "amount": 2.06
+   },
+   {
+    "description": "EGGS",
+    "quantity": 2,
+    "amount": 10.22
+   }
+  ]
+ },
+ "s036.jpg": {
+  "vendor": "Metro Grocers",
+  "date": "2025-08-12",
+  "total": 75.45,
+  "currency": null,
+  "line_items": [
+   {
+    "description": "CHICKEN",
+    "quantity": 2,
+    "amount": 1.48
+   },
+   {
+    "description": "TEA",
+    "quantity": 3,
+    "amount": 9.3
+   },
+   {
+    "description": "RICE",
+    "quantity": 2,
+    "amount": 5.24
+   },
+   {
+    "description": "SHAMPOO",
+    "quantity": 3,
+    "amount": 14.58
+   },
+   {
+    "description": "BISCUITS",
+    "quantity": 3,
+    "amount": 17.67
+   },
+   {
+    "description": "YOGURT",
+    "quantity": 2,
+    "amount": 11.62
+   },
+   {
+    "description": "APPLES",
+    "quantity": 1,
+    "amount": 3.26
+   },
+   {
+    "description": "SOAP",
+    "quantity": 3,
+    "amount": 6.99
+   },
+   {
+    "description": "COOKING OIL",
+    "quantity": 1,
+    "amount": 5.31
+   }
+  ]
+ },
+ "s037.jpg": {
+  "vendor": "City Pharmacy",
+  "date": "2025-06-24",
+  "total": 4179.57,
+  "currency": "PKR",
+  "line_items": [
+   {
+    "description": "BREAD",
+    "quantity": 3,
+    "amount": 1292.97
+   },
+   {
+    "description": "CHICKEN",
+    "quantity": 3,
+    "amount": 282.51
+   },
+   {
+    "description": "BISCUITS",
+    "quantity": 2,
+    "amount": 1037.58
+   },
+   {
+    "description": "SUGAR",
+    "quantity": 3,
+    "amount": 777.03
+   },
+   {
+    "description": "TEA",
+    "quantity": 2,
+    "amount": 789.48
+   }
+  ]
+ },
+ "s038.jpg": {
+  "vendor": "Star Cafe",
+  "date": "2026-09-09",
+  "total": 31.96,
+  "currency": "USD",
+  "line_items": [
+   {
+    "description": "APPLES",
+    "quantity": 3,
+    "amount": 15.9
+   },
+   {
+    "description": "BREAD",
+    "quantity": 2,
+    "amount": 2.84
+   },
+   {
+    "description": "BISCUITS",
+    "quantity": 2,
+    "amount": 10.94
+   },
+   {
+    "description": "SOAP",
+    "quantity": 1,
+    "amount": 2.28
+   }
+  ]
+ },
+ "s039.jpg": {
+  "vendor": "City Pharmacy",
+  "date": "2025-07-17",
+  "total": 24.37,
+  "currency": "USD",
+  "line_items": [
+   {
+    "description": "BREAD",
+    "quantity": 1,
+    "amount": 3.24
+   },
+   {
+    "description": "YOGURT",
+    "quantity": 3,
+    "amount": 3.87
+   },
+   {
+    "description": "APPLES",
+    "quantity": 2,
+    "amount": 8.02
+   },
+   {
+    "description": "JUICE",
+    "quantity": 2,
+    "amount": 3.8
+   },
+   {
+    "description": "SOAP",
+    "quantity": 1,
+    "amount": 5.44
+   }
+  ]
+ },
+ "s040.jpg": {
+  "vendor": "Star Cafe",
+  "date": "2026-03-15",
+  "total": 70.78,
+  "currency": null,
+  "line_items": [
+   {
+    "description": "SHAMPOO",
+    "quantity": 2,
+    "amount": 7.3
+   },
+   {
+    "description": "SUGAR",
+    "quantity": 3,
+    "amount": 6.39
+   },
+   {
+    "description": "CHICKEN",
+    "quantity": 3,
+    "amount": 6.36
+   },
+   {
+    "description": "JUICE",
+    "quantity": 3,
+    "amount": 8.04
+   },
+   {
+    "description": "RICE",
+    "quantity": 1,
+    "amount": 3.61
+   },
+   {
+    "description": "APPLES",
+    "quantity": 3,
+    "amount": 14.34
+   },
+   {
+    "description": "BISCUITS",
+    "quantity": 1,
+    "amount": 5.51
+   },
+   {
+    "description": "BREAD",
+    "quantity": 3,
+    "amount": 9.69
+   },
+   {
+    "description": "COOKING OIL",
+    "quantity": 2,
+    "amount": 9.54
+   }
+  ]
+ }
+}

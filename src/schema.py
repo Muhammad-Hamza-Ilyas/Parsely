@@ -11,3 +11,4 @@ class Invoice(BaseModel):
     date: str | None = None          # always written YYYY-MM-DD
     total: float | None = None
     line_items: list[LineItem] = []
+    currency: str | None = None 
